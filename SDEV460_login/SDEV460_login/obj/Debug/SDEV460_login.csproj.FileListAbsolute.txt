@@ -1,0 +1,10 @@
+c:\users\root\documents\visual studio 2015\Projects\SDEV460_login\SDEV460_login\bin\Debug\SDEV460_login.exe.config
+C:\Users\root\documents\visual studio 2015\Projects\SDEV460_login\SDEV460_login\bin\Debug\SDEV460_login.exe
+C:\Users\root\documents\visual studio 2015\Projects\SDEV460_login\SDEV460_login\bin\Debug\SDEV460_login.pdb
+C:\Users\root\documents\visual studio 2015\Projects\SDEV460_login\SDEV460_login\obj\Debug\SDEV460_login.csprojResolveAssemblyReference.cache
+C:\Users\root\documents\visual studio 2015\Projects\SDEV460_login\SDEV460_login\obj\Debug\SDEV460_login.Form1.resources
+C:\Users\root\documents\visual studio 2015\Projects\SDEV460_login\SDEV460_login\obj\Debug\SDEV460_login.Main.resources
+C:\Users\root\documents\visual studio 2015\Projects\SDEV460_login\SDEV460_login\obj\Debug\SDEV460_login.Properties.Resources.resources
+C:\Users\root\documents\visual studio 2015\Projects\SDEV460_login\SDEV460_login\obj\Debug\SDEV460_login.csproj.GenerateResource.Cache
+C:\Users\root\documents\visual studio 2015\Projects\SDEV460_login\SDEV460_login\obj\Debug\SDEV460_login.exe
+C:\Users\root\documents\visual studio 2015\Projects\SDEV460_login\SDEV460_login\obj\Debug\SDEV460_login.pdb
